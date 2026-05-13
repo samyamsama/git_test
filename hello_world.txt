@@ -1,0 +1,3 @@
+Lerning odin project. I am supposed to add sth here. and add it to the staging area i guess. with
+$ git add hello_world.txt
+and git clone - m 
